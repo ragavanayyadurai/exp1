@@ -1,6 +1,6 @@
 # Implementation of Logic Gates using Verilog HDL
 ## Aim
-To implement and to verify the truth table in Verilog HDL for the following logic gates 
+To implement and to verify the truth table in Verilog HDL for the following logic gates :
 1.	AND gate
 2.	 OR gate
 3.	 NOT gate 
