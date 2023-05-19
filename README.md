@@ -1,6 +1,5 @@
-# ex1final
-Implementation of Logic Gates using Verilog HDL
-Aim:
+#Implementation of Logic Gates using Verilog HDL
+##Aim:
 To implement and to verify the truth table in Verilog HDL for the following logic gates 
 1.	AND gate
 2.	 OR gate
@@ -10,10 +9,11 @@ To implement and to verify the truth table in Verilog HDL for the following logi
 6.	 Ex-OR gate
 7.	 Ex-NOR gates 
 
-Components Required:
-1.	Laptop with Quartus software and modelsim software.
-Theory
-Introduction
+##Components Required:
+1.	Laptop with Quartus software and modelsim software
+
+##Theory
+##Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 1) AND gate
@@ -28,8 +28,9 @@ The AND gate is an electronic circuit that gives a high output (1) only if all i
 
 Logic Symbol 						Truth Table 
 								Y= A.B
+![image](https://github.com/rvinifa/ex1final/assets/133735746/77ff0a10-d660-4280-9d82-05dd0e353823)
   
-![Uploading image.png…]()
+
 
 
 
