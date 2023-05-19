@@ -1,6 +1,6 @@
 # Implementation of Logic Gates using Verilog HDL
 ## Aim
-To implement and to verify the truth table in Verilog HDL for the following logic gates :
+To implement and to verify the truth table in Verilog HDL for the following logic gates 
 1.	AND gate
 2.	 OR gate
 3.	 NOT gate 
@@ -138,10 +138,10 @@ endmodule
 
 
 ## RTL Schematic:
-![output](exp1.jpg)
+![exp1 (2)](https://github.com/ragavanayyadurai/exp1/assets/118749557/e43b0c61-07d9-493e-a2e5-6dd2206af97e)
 
 ## Timing Diagram:
-![output](exp1(1)(1).jpg)
+![exp1](https://github.com/ragavanayyadurai/exp1/assets/118749557/7c048271-6b19-4f4d-bfd9-9a7731cd013a)
 
 
 
